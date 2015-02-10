@@ -2,6 +2,7 @@
   <library name="slick">
     <CLASSES>
       <root url="jar:///media/philipp/Data/Libs/slick/lib/slick.jar!/" />
+      <root url="jar://C:/Program Files/Slick2D/lib/slick.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
