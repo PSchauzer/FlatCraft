@@ -1,6 +1,5 @@
 package at.styriancoding.flatcraft.Game;
 
-import at.styriancoding.flatcraft.Util.GameStatePanel;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;
@@ -12,12 +11,11 @@ import javax.swing.*;
 /**
  * Created by philipp on 10.02.15.
  */
-public class MainMenu extends BasicGameState{
-
+public class SplashScreen extends BasicGameState{
 
     @Override
     public int getID() {
-        return 1;
+        return 0;
     }
 
     @Override
